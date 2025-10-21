@@ -23,4 +23,4 @@ Basic resources for cheminformatics
 
 ## Getting Started
 
-Please open the PowerPoint presentation to find a step-by-step guide to the code within the `comp_chem_intro_notebook.ipynb`.
+Please open the PowerPoint presentation to find a step-by-step guide to the code in `comp_chem_intro_notebook.ipynb`.
