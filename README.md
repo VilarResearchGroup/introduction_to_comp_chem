@@ -1,5 +1,7 @@
 # Introduction to Computational Chemistry
 
+Basic resources for cheminformatics 
+
 ## Contents
 
 ### 1. Molecule Generation
