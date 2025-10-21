@@ -1,0 +1,4 @@
+%NProcShared=32
+%Mem=10GB
+
+# opt b3lyp/6-31G(d) geom=connectivity
